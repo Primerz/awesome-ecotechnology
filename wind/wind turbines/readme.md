@@ -31,6 +31,7 @@ To protect components from undue wear, extracted power is held constant above th
   * [Savonius wind turbine](https://en.wikipedia.org/wiki/Savonius_wind_turbine)
   * Twisted Savonius
   
-  ---
+ ---
   
-  [source](https://en.wikipedia.org/wiki/Wind_turbine)
+  * [source](https://en.wikipedia.org/wiki/Wind_turbine)
+  * [Open source blueprints](https://github.com/Primerz/awesome-ecotechnology/blob/master/wind/wind%20turbines/open-source-blueprints.md)
