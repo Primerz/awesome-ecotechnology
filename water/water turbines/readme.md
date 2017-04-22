@@ -41,3 +41,7 @@ where:
 * Turgo turbine
 
 ![](http://www.xindaenergy.com/pic/other/2012-09-11-14-41-268.jpg)
+
+---
+
+[source](https://en.wikipedia.org/wiki/Water_turbine)
