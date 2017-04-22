@@ -21,4 +21,4 @@ EROI = Energy delivered / energy required to deliver this energy.
   * Underwater turbines
 * Wind
   * [Wind turbines](https://github.com/Primerz/awesome-ecotechnology/tree/master/wind/wind%20turbines)
-  
+  * [Bladeless wind turbines](http://vortexbladeless.com/)
