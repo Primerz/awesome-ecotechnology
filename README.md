@@ -17,7 +17,7 @@ EROI = Energy delivered / energy required to deliver this energy.
 ## Substainable energy production technology (EROI > 11:1 && non-fossil)
 
 * Water
-  * Water turbines
+  * [Water turbines](https://github.com/Primerz/awesome-ecotechnology/tree/master/water/water%20turbines)
   * Underwater turbines
 * Wind
   * Wind turbines
