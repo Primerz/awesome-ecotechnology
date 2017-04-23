@@ -22,3 +22,7 @@ EROI = Energy delivered / energy required to deliver this energy.
 * Wind
   * [Wind turbines](https://github.com/Primerz/awesome-ecotechnology/tree/master/wind/wind%20turbines)
   * [Bladeless wind turbines](http://vortexbladeless.com/)
+
+## Substainable energy extraction
+
+* [Heat pump](https://energy.gov/energysaver/heat-pump-systems) (can heat water 2 to 3 times more efficiently than an ordinary electric water heater.)
